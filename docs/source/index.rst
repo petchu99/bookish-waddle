@@ -1,7 +1,7 @@
 Welcome to SamePHY documentation!
 ===================================
 
-**SamePHY** (/lu'make/) 
+**SamePHY** 
 
 Walking you through on ALL ABOUT THE SamePHY BOARD and how to use SamePHY seamlessly !!!.
 
