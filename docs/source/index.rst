@@ -2,7 +2,9 @@ Welcome to SamePHY documentation!
 ===================================
 
 .. toctree::
-
+   :maxdepth: 2
+   :hidden:
+   :caption: 🚀 Tutorials
    usage
    api
 
@@ -20,6 +22,4 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
 
