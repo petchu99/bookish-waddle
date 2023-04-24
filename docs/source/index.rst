@@ -1,6 +1,12 @@
 Welcome to SamePHY documentation!
 ===================================
 
+.. toctree::
+
+   usage
+   api
+
+
 **SamePHY** 
 
 Walking you through on ALL ABOUT THE SamePHY BOARD and how to use SamePHY seamlessly !!!.
@@ -17,7 +23,3 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-
-   usage
-   api
