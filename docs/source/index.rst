@@ -3,6 +3,9 @@
    :hidden:
    :caption: 🚀 Tutorials
    
+   usage
+   api
+   
    
 Welcome to SamePHY documentation!
 ===================================
