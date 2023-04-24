@@ -6,8 +6,7 @@ Welcome to SamePHY documentation!
    :hidden:
    :caption: 🚀 Tutorials
    
-   usage
-   api
+   
 
 
 **SamePHY** 
