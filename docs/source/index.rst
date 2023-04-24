@@ -5,6 +5,7 @@ Welcome to SamePHY documentation!
    :maxdepth: 2
    :hidden:
    :caption: 🚀 Tutorials
+   
    usage
    api
 
