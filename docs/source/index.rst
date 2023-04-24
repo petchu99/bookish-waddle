@@ -1,13 +1,11 @@
-Welcome to SamePHY documentation!
-===================================
-
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: 🚀 Tutorials
    
    
-
+Welcome to SamePHY documentation!
+===================================
 
 **SamePHY** 
 
