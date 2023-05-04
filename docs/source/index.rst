@@ -3,7 +3,7 @@
    :hidden:
    :caption: 🚀 Tutorials
    
-   /intro/getting-started
+   /Intro/getting-started
  
    
    
