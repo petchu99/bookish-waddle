@@ -28,7 +28,3 @@ to  more **complex domains** such as
 * Scientific and Engineering Research purposes, 
 * High end industrial automation e.t.c.
 
-
-.. note::
-
-   This project is under active development.
