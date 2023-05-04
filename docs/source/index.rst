@@ -28,8 +28,6 @@ to  more **complex domains** such as
 * Scientific and Engineering Research purposes, 
 * High end industrial automation e.t.c.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
