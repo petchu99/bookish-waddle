@@ -4,6 +4,7 @@
    :caption: 🚀 Tutorials
    
    /Intro/getting-started
+   /hardware-development/index
  
    
    
