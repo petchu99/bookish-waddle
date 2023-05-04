@@ -18,6 +18,8 @@ SamePHY MUSK
 ~~~~~~~~~~~~
 Features of SamePHY MUSK
 
+.. image:: ../images/simxx-in-module-M.png
+
 - WiFi & BT/BLE
 - LoRa/LoRaWAN
 - SigFox & wM-Bus
