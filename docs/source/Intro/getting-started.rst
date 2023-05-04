@@ -1,4 +1,4 @@
-Welcome to SamePHY documentation!
+Getting Started
 ===================================
 
 **SamePHY** 
