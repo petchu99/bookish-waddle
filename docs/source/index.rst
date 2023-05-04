@@ -5,6 +5,7 @@
    
    /Intro/getting-started
    /hardware-development/index
+   /software-development/index
  
    
    
