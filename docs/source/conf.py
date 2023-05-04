@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'samephy'
+project = 'SamePHY'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
