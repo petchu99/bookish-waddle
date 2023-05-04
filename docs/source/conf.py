@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'SamePHY'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2023, aiMeter'
+author = 'Engr Dibia Peter'
 
 release = '0.1'
 version = '0.1.0'
