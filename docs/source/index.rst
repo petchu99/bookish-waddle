@@ -4,8 +4,7 @@
    :caption: 🚀 Tutorials
    
    /intro/getting-started
-   /intro/import-guide
-   /examples
+ 
    
    
 Welcome to SamePHY documentation!
