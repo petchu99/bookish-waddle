@@ -7,7 +7,7 @@
    /hardware-development/index
    /software-development/index
    /api
-   /examples
+   /examples/examples
  
    
    
