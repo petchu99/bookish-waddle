@@ -16,9 +16,10 @@ Both flavors are compatible with the Arduino and Raspberry Pi form factors and t
 
 SamePHY MUSK
 ~~~~~~~~~~~~
-Features of SamePHY MUSK
-
 .. image:: ../images/simxx-in-module-M.png
+
+
+Features of SamePHY MUSK
 
 - WiFi & BT/BLE
 - LoRa/LoRaWAN
