@@ -33,7 +33,7 @@ Features of SamePHY MUSK
 
 SamePHY KANU
 ~~~~~~~~~~~~
-.. image:: ../images/bcc in module k.png
+.. image:: ../images/bcc-in-module-k.png
 
 Features of SamePHY KANU 
 
