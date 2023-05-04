@@ -11,7 +11,6 @@ Currently, SamePHY comes in two flavour modules:
 - SamePHY KANU (also called "Module K")
 
 .. image:: ../images/modules.png
-   :width: 3000pt
 
 Both flavors are compatible with the Arduino and Raspberry Pi form factors and they only differ in the type of GSM/GPRS modem on-board - that is, where **Module M** uses **SIMXXX** (a modem series from SIMCOM manufacturers), **Module K** uses **BCXX/MCXX** (a modem series from QUECTEL manufacturers).
 
