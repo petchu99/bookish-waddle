@@ -13,7 +13,7 @@
    
 Welcome to SamePHY documentation!
 ===================================
-Walking you through on ALL ABOUT THE SamePHY BOARD and how to use SamePHY seamlessly.
+Walking you through on ALL ABOUT THE SamePHY BOARD and how to use SamePHY seamlessly
  
 .. image:: images/SamePHY_MUSK.png
    :width: 400pt
