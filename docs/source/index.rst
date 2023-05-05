@@ -29,7 +29,7 @@
    :hidden:
    :caption: 🪄 SamePHY JOBS
    
-   /Intro/getting-started
+   /samephy-jons/jobs
    
    
 Welcome to SamePHY documentation!
