@@ -5,8 +5,10 @@ SamePHY is a highly reconfigurable development board, a gateway of all sorts of 
 
 Flavours of SamePHY 
 -------------------
+
 SamePHY MUSK
-^^^^^^^^^^^^^
+~~~~~~~~~~~~~
+
 Currently, SamePHY comes in two flavour modules:
 
 - SamePHY MUSK (also called "Module M")
