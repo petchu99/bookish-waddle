@@ -1,14 +1,35 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🚀 Tutorials
+   :caption: 🚀 Quick Tutorial
    
    /Intro/getting-started
+   /Intro/flavours
+   /Intro/flavour-choice
+   /Intro/installation
+   /examples/examples
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 💡 Deep Dive into SamePHY
+   
+   /flavours/samephy-musk
+   /flavours/samephy-kanu
    /hardware-development/index
    /software-development/index
    /api
-   /examples/examples
- 
+   /examples/examples 
+   
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🪄 SamePHY JOBS
+   
+   /Intro/getting-started
    
    
 Welcome to SamePHY documentation!
