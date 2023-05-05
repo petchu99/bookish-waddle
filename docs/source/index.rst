@@ -7,7 +7,7 @@
    /Intro/flavours
    /Intro/flavour-choice
    /Intro/installation
-   /examples/examples
+   /Intro/examples
    
    
 .. toctree::
