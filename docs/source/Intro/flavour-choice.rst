@@ -1,2 +1,2 @@
-How to Choose Your Desire Flavour
+How to Choose Your Desired Flavour
 =================================
