@@ -6,9 +6,6 @@ SamePHY is a highly reconfigurable development board, a gateway of all sorts of 
 Flavours of SamePHY 
 -------------------
 
-SamePHY MUSK
-~~~~~~~~~~~~~
-
 Currently, SamePHY comes in two flavour modules:
 
 - SamePHY MUSK (also called "Module M")
@@ -19,7 +16,7 @@ Currently, SamePHY comes in two flavour modules:
 Both flavors are compatible with the Arduino and Raspberry Pi form factors and they only differ in the type of GSM/GPRS modem on-board - that is, where **Module M** uses **SIMXXX** (a modem series from SIMCOM manufacturers), **Module K** uses **BCXX/MCXX** (a modem series from QUECTEL manufacturers).
 
 SamePHY MUSK
-^^^^^^^^^^^^^
+-----------------------
 
 .. image:: ../images/simxx-in-module-M.png
 
@@ -37,7 +34,7 @@ Features of SamePHY MUSK
 - Raspberry Pi Form Factor Compatible
 
 SamePHY KANU
-^^^^^^^^^^^^^
+-----------------------
 
 .. image:: ../images/bcxx-in-module-k.png
 
@@ -54,4 +51,14 @@ Features of SamePHY KANU
 - Raspberry Pi Form Factor Compatible
 
 
+How to Choose Your Desired Flavour
+--------------------------------------
 
+
+
+Installation
+------------
+
+
+Your First Project(Hello World!)
+------------------------------------
