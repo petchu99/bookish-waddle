@@ -11,8 +11,9 @@ Currently, SamePHY comes in two flavour modules:
 
 Both flavors are compatible with the Arduino and Raspberry Pi form factors and they only differ in the type of GSM/GPRS modem on-board - that is, where **Module M** uses **SIMXXX** (a modem series from SIMCOM manufacturers), **Module K** uses **BCXX/MCXX** (a modem series from QUECTEL manufacturers).
 
-SamePHY MUSK
------------------------
+
+**SamePHY MUSK**
+
 
 .. image:: ../images/simxx-in-module-M.png
 
@@ -29,8 +30,9 @@ Features of SamePHY MUSK
 - Arduino Form Factor Compatible
 - Raspberry Pi Form Factor Compatible
 
-SamePHY KANU
------------------------
+
+**SamePHY KANU**
+
 
 .. image:: ../images/bcxx-in-module-k.png
 
