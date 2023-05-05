@@ -16,6 +16,7 @@ Both flavors are compatible with the Arduino and Raspberry Pi form factors and t
 
 SamePHY MUSK
 ~~~~~~~~~~~~
+
 .. image:: ../images/simxx-in-module-M.png
 
 
@@ -33,6 +34,7 @@ Features of SamePHY MUSK
 
 SamePHY KANU
 ~~~~~~~~~~~~
+
 .. image:: ../images/bcc-in-module-k.png
 
 Features of SamePHY KANU 
